@@ -79,13 +79,13 @@ Visualizations include class distribution, feature analysis, a correlation heatm
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/wriddhiman-25/ML_Mini-Project.git
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd YOUR_PROJECT_FOLDER
+   cd ML_Mini-Project
    ```
 
 3. Install the required libraries:
